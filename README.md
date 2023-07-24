@@ -1,6 +1,6 @@
 # Solución al problema de Desercion Laboral
 
-## Proposito:
+## Business Analysis:
 Se identifico un caso preocupante de rotación de empleados considerable, sin tener una vision clara de las implicaciones que esto conlleva dentro de la organización por lo que se a considerado como objetivo principal analizar a fondo las causas y consecuencias de la deserción laboral en la empresa, asi como identificar patrones y tendencias que puedan estar contribuyendo a este fenómeno. 
 
 En primer lugar, se llevara a cabo un análisis que permita entender cuantitativamente los gastos que ocasiona la rotación de empleados, incluyendo los costos asociados a la búsqueda, selección y capacitación de nuevos empleados y el impacto que representa para la empresa.
@@ -24,6 +24,11 @@ Dashboard: Tableau
 El proyecto completo fue hecho en lenguaje de programación Python. Se utilizo Random Forest para encontrar el perfil de los empleados que abandonan la empresa 
 
 Se utilizara TABLEAU para crear una presentación 
+
+# Proceso de analisis
+[Notebook](https://colab.research.google.com/drive/1GAj6cuPgsOT-7OtdXyYUK9M_P1rYYlVg?usp=sharing)
+[Dashboard]()
+
 
 
 ## solucion
