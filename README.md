@@ -16,10 +16,13 @@ En conclusión, el presente proyecto busca implementar un sistema integral que p
 
 ## Acerca:
 Para la solución del problema actual se utilizaran las siguientes herramientas:
-Lenguaje de programación: Python
-Sistema 
-Busqueda de perfil de empleado: Random Forest
-Dashboard: Tableau
+- Lenguaje de programación: Python
+  
+- Machine Learning model:
+  
+- Busqueda de perfil de empleado: Random Forest
+  
+- Dashboard: Tableau
 
 El proyecto completo fue hecho en lenguaje de programación Python. Se utilizo Random Forest para encontrar el perfil de los empleados que abandonan la empresa 
 
@@ -27,6 +30,8 @@ Se utilizara TABLEAU para crear una presentación
 
 # Proceso de analisis
 [Notebook](https://colab.research.google.com/drive/1GAj6cuPgsOT-7OtdXyYUK9M_P1rYYlVg?usp=sharing)
+
+
 [Dashboard]()
 
 
