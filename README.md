@@ -32,7 +32,7 @@ Se utilizara TABLEAU para crear una presentación
 [Notebook](https://colab.research.google.com/drive/1GAj6cuPgsOT-7OtdXyYUK9M_P1rYYlVg?usp=sharing)
 
 
-[Dashboard]()
+[Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 
