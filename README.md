@@ -20,6 +20,7 @@ La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de 
 ## Métodos
 - Análisis De Negocio
 - Análisis Exploratorio De Datos
+- Análisis de penetración
 - Generación De Insights
 
 ## Tech Stack
@@ -38,22 +39,21 @@ La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de 
 [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Análisis
-La tasa de abandono dentro de la empresa es del 16.12%, y se ha observado que en su mayoría proviene del personal de ventas, especialmente de aquellos con un bajo nivel educativo (Primaria), estado civil soltero, alta carga de trabajo y bajos salarios. Este problema ha resultado en una pérdida de **$2,719,005.912** en el último año.
+La tasa de abandono lavoral dentro de la empresa es del 16.12%, y se ha observado que en su mayoría proviene del personal de ventas, especialmente de aquellos con un bajo nivel educativo (Primaria), estado civil soltero, alta carga de trabajo y bajos salarios. Este problema ha resultado en una pérdida de **$2,719,005.912** en el último año.
 
-Además del abandono, estos factores también contribuyen a una baja motivación entre los empleados, lo que ha llevado a una pérdida adicional de **$368,672.688**. Es evidente que fidelizar a los empleados podría reducir este problema y ahorrar dinero. A continuación, se presentan tres escenarios para considerar:
+Es evidente que fidelizar a los empleados podría reducir este problema y hacernos ahorrar dinero. A continuación, se presentan tres escenarios para considerar:
 
 1. Reducir un **10%** la tasa de abandono nos permitiría ahorrar **$271,900** cada año.
 2. Reducir un **20%** la tasa de abandono nos permitiría ahorrar **$543,801** cada año.
 3. Reducir un **30%** la tasa de abandono nos permitiría ahorrar **$815,701** cada año.
 
-Comparando con la tasa de abandono del año anterior del 39.7%, vemos que en el año actual todavía tenemos una tasa alta del 23.58%. Si estimamos que 19 empleados dejarán la empresa este año, surge la pregunta de cuántos empleados podríamos retener y cuánto dinero representaría esa retención. Considerando los tres escenarios mencionados, obtendríamos lo siguiente:
+Comparando con la tasa de abandono del año anterior del 39.7%, vemos que en el año actual todavía tenemos un faltante del 23.58%. Se estima que 19 empleados dejarán la empresa este año, surge la pregunta de ¿cuántos empleados podríamos retener y cuánto dinero representaría esa retención?. Considerando estos tres escenarios, obtendríamos lo siguiente:
 
 1. Con el **10%** de retención, mantendríamos a **1** empleado de ventas y ahorraríamos **$12,482.41**.
 2. Con el **20%** de retención, mantendríamos a **3** empleados de ventas y ahorraríamos **$24,964.82**.
 3. Con el **30%** de retención, mantendríamos a **5** empleados de ventas y ahorraríamos **$37,447.22**.
 
 Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de **$37,447** para acciones específicas orientadas a la retención del personal de ventas, lo cual estaría justificado ya que esta cantidad es igual al pronóstico de pérdida para este año. Invertir en estrategias para retener al personal resultará en un ahorro significativo y un ambiente laboral más estable y productivo.
-
 
 
 ## Vistaso rápido a los resultados
