@@ -38,21 +38,21 @@ La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de 
 [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Análisis
-La tasa de abandono dentro de la empresa es del 16.12% en gran mayoria por el personal de ventas siento el perfil de personas con un bajo nivel educativo (Primaria), solteros, con una alta carga de trabajo y con bajos salarios. Este a provocado en el utlimo año una perdida de **$2,719,005.912**.
-Los factores a continuación provocan ademas del abandono una baja motivación en los empleados provocando una perdida de **$368,672.688**. Por lo que fidelizando a los empleados es posible reducir este problema y ahorrar dinero, se tienen los siguientes 3 escenarios:
-- Reducir un **10%** la fuga de empleados nos ahorraría **$271900** cada año.
-- Reducir un **20%** la fuga de empleados nos ahorraría **$543801** cada año.
-- Reducir un **30%** la fuga de empleados nos ahorraría **$815701** cada año.
+La tasa de abandono dentro de la empresa es del 16.12%, y se ha observado que en su mayoría proviene del personal de ventas, especialmente de aquellos con un bajo nivel educativo (Primaria), estado civil soltero, alta carga de trabajo y bajos salarios. Este problema ha resultado en una pérdida de **$2,719,005.912** en el último año.
 
-Comparando la tasa de abandono del año anterior del 39.7% indica que en el año corriente aun hay un 23.58%. Estimando el personal que se ira este año tenemos 19 empleados, por lo que se hace la siguiente pregunta ¿Cuántos trabajadores podemos retener y cuánto dinero representa esta retención?. Respondiento esta pregunta y tomando de nuevo los 3 diferentes escenarios: 
+Además del abandono, estos factores también contribuyen a una baja motivación entre los empleados, lo que ha llevado a una pérdida adicional de **$368,672.688**. Es evidente que fidelizar a los empleados podría reducir este problema y ahorrar dinero. A continuación, se presentan tres escenarios para considerar:
 
-- Con el 10.0% retenemos 1 empleados de ventas y ahorrariamos $12482.40808192771
-- Con el 20.0% retenemos 3 empleados de ventas y ahorrariamos $24964.81616385542
-- Con el 30.0% retenemos 5 empleados de ventas y ahorrariamos $37447.22424578312
+1. Reducir un **10%** la tasa de abandono nos permitiría ahorrar **$271,900** cada año.
+2. Reducir un **20%** la tasa de abandono nos permitiría ahorrar **$543,801** cada año.
+3. Reducir un **30%** la tasa de abandono nos permitiría ahorrar **$815,701** cada año.
 
-Tomando en cuenta los datos anteriores podemos establecer un gasto máximo de $37,447 para acciones especificas a la retención del personal de ventas que se estaran pagando solos ya que es el pronostico que se tiene como perdida de este año. 
+Comparando con la tasa de abandono del año anterior del 39.7%, vemos que en el año actual todavía tenemos una tasa alta del 23.58%. Si estimamos que 19 empleados dejarán la empresa este año, surge la pregunta de cuántos empleados podríamos retener y cuánto dinero representaría esa retención. Considerando los tres escenarios mencionados, obtendríamos lo siguiente:
 
+1. Con el **10%** de retención, mantendríamos a **1** empleado de ventas y ahorraríamos **$12,482.41**.
+2. Con el **20%** de retención, mantendríamos a **3** empleados de ventas y ahorraríamos **$24,964.82**.
+3. Con el **30%** de retención, mantendríamos a **5** empleados de ventas y ahorraríamos **$37,447.22**.
 
+Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de **$37,447** para acciones específicas orientadas a la retención del personal de ventas, lo cual estaría justificado ya que esta cantidad es igual al pronóstico de pérdida para este año. Invertir en estrategias para retener al personal resultará en un ahorro significativo y un ambiente laboral más estable y productivo.
 
 
 
@@ -60,7 +60,7 @@ Tomando en cuenta los datos anteriores podemos establecer un gasto máximo de $3
 
 
 ## Solución
-Se crea un 
+Se crea un modelo de Machine learning para poder predecir a los empleados con más probabilidad de dejar la organización
 
 
 
