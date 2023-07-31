@@ -18,9 +18,9 @@ En conclusión, el presente proyecto busca implementar un sistema integral que p
 La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de información: Employees.csv
 
 ## Métodos
-- Análisis del problema
-- Análisis exploratorio de datos
-- Bivariate analysis
+- Análisis De Negocio
+- Análisis Exploratorio De Datos
+- Generación De Insights
 
 ## Tech Stack
 - Python
@@ -38,6 +38,23 @@ La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de 
 [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Análisis
+La tasa de abandono dentro de la empresa es del 16.12% en gran mayoria por el personal de ventas siento el perfil de personas con un bajo nivel educativo (Primaria), solteros, con una alta carga de trabajo y con bajos salarios. Este a provocado en el utlimo año una perdida de **$2,719,005.912**.
+Los factores a continuación provocan ademas del abandono una baja motivación en los empleados provocando una perdida de **$368,672.688**. Por lo que fidelizando a los empleados es posible reducir este problema y ahorrar dinero, se tienen los siguientes 3 escenarios:
+- Reducir un **10%** la fuga de empleados nos ahorraría **$271900** cada año.
+- Reducir un **20%** la fuga de empleados nos ahorraría **$543801** cada año.
+- Reducir un **30%** la fuga de empleados nos ahorraría **$815701** cada año.
+
+Comparando la tasa de abandono del año anterior del 39.7% indica que en el año corriente aun hay un 23.58%. Estimando el personal que se ira este año tenemos 19 empleados, por lo que se hace la siguiente pregunta ¿Cuántos trabajadores podemos retener y cuánto dinero representa esta retención?. Respondiento esta pregunta y tomando de nuevo los 3 diferentes escenarios: 
+
+- Con el 10.0% retenemos 1 empleados de ventas y ahorrariamos $12482.40808192771
+- Con el 20.0% retenemos 3 empleados de ventas y ahorrariamos $24964.81616385542
+- Con el 30.0% retenemos 5 empleados de ventas y ahorrariamos $37447.22424578312
+
+Tomando en cuenta los datos anteriores podemos establecer un gasto máximo de $37,447 para acciones especificas a la retención del personal de ventas que se estaran pagando solos ya que es el pronostico que se tiene como perdida de este año. 
+
+
+
+
 
 ## Vistaso rápido a los resultados
 
