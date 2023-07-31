@@ -13,30 +13,36 @@ Por último, se enfocará en la identificación de los perfiles de empleados má
 
 En conclusión, el presente proyecto busca implementar un sistema integral que permita reducir la rotación de empleados en la empresa, abordando tanto las causas subyacentes del problema como los aspectos individuales que pueden influir en la decisión de abandonar el trabajo. Mediante un enfoque cuantitativo y un análisis profundo, se aspira a mejorar la retención del talento humano, fomentando un ambiente laboral estable, productivo y satisfactorio para todos los miembros de la organización.
 
+## Fuente de datos
 
-## Herramientas:
-Para la solución del problema actual se utilizaran las siguientes herramientas:
+La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de información: Employees.csv
 
-- Lenguaje de programación: Python
-  
-- Modelado: scikit-learn
+## Métodos
+- Análisis del problema
+- Análisis exploratorio de datos
+- Bivariate analysis
 
-- Visualización: Matplotlib y Seaborn
+## Tech Stack
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Tableau
+- GitHub
 
-- NoteBook: GoogleColab
-  
-- Dashboard: Tableau
-
-
-# Proceso de análisis
+## Explora
 [Notebook](https://colab.research.google.com/drive/1GAj6cuPgsOT-7OtdXyYUK9M_P1rYYlVg?usp=sharing)
-
 
 [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
+## Análisis
+
+## Vistaso rápido a los resultados
 
 
-## solución
+## Solución
 Se crea un 
 
 
