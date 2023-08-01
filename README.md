@@ -1,7 +1,7 @@
 # Solución al problema de Desercion Laboral
 
 ## Análisis de Negocio:
-Se identificó un caso preocupante de rotación de empleados, sin tener una vision clara de las implicaciones que esto conlleva dentro de la organización. Por lo que se a considerado como objetivo principal analizar a fondo las causas y consecuencias de la deserción laboral en la empresa, así como identificar patrones y tendencias que puedan estar contribuyendo a este fenómeno. 
+Se identificó un caso preocupante de rotación de empleados, sin tener una visión clara de las implicaciones que esto conlleva dentro de la organización. Por lo que se a considerado como objetivo principal analizar a fondo las causas y consecuencias de la deserción laboral en la empresa, así como identificar patrones y tendencias que puedan estar contribuyendo a este fenómeno. 
 
 En primer lugar, se llevará a cabo un análisis que permita entender cuantitativamente los gastos que ocasiona la rotación de empleados, incluyendo los costos asociados a la búsqueda, selección y capacitación de nuevos empleados y el impacto que representa para la empresa.
 
@@ -58,6 +58,7 @@ Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de 
 
 ## Vistaso rápido a los resultados
 
+  [![]([https://pandao.github.io/editor.md/examples/images/7.jpg](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png))]
 
 ## Solución
 Se crea un modelo de Machine learning para poder predecir a los empleados con más probabilidad de dejar la organización
