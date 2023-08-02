@@ -7,7 +7,7 @@ En primer lugar, se llevará a cabo un análisis que permita entender cuantitati
 
 Una parte esencial será encontrar una métrica adecuada para medir el abandono laboral en la empresa. Esto permitirá tener una visión clara y precisa del problema, facilitando la toma de decisiones y estrategias para su mitigación.
 
-Asimismo, se determinara que porcentaje de empleados se encuantra actualmente en riesgo de abandonar sus puestos de trabajo para visualizar el riesgo por el que pasa la empresa.
+Asimismo, se determinará que porcentaje de empleados se encuentra actualmente en riesgo de abandonar sus puestos de trabajo para visualizar el riesgo por el que pasa la empresa.
 
 Por último, se enfocará en la identificación de los perfiles de empleados más propensos al abandono laboral. Para ello, se realizará un análisis detallado de variables dentro del conjunto de datos y otros factores que puedan influir en la decisión de dejar la organización. Esto con la finalizad de dirigiir esfuerzos y recursos hacia acciones que resulten en la retención del talento humano.
 
