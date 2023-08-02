@@ -1,4 +1,4 @@
-# Solución al problema de Desercion Laboral
+ # Solución al problema de Desercion Laboral
 
 ## Análisis de Negocio:
 Se identificó un caso preocupante de rotación de empleados, sin tener una visión clara de las implicaciones que esto conlleva dentro de la organización. Por lo que se a considerado como objetivo principal analizar a fondo las causas y consecuencias de la deserción laboral en la empresa, así como identificar patrones y tendencias que puedan estar contribuyendo a este fenómeno. 
@@ -60,7 +60,7 @@ Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de 
 > Árbol de desiciones
 
 
-![ARBOL](https://pandao.github.io/editor.md/examples/images/4.jpg(https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)https://pandao.github.io/editor.md/examples/images/4.jpg(https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)
+[![Arbol-de-perfil-de-empleado.png](https://i.postimg.cc/yxScCc0Q/Arbol-de-perfil-de-empleado.png)](https://postimg.cc/2LrV4qch)
 
 
 
