@@ -62,12 +62,18 @@ Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de 
 
 ![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)
 
+Nota: El árbol de desiciones señala que los empleados con mayor probabilidad a abandonar la empreson son: aquellas personas que hacen horas extras, con posiciones bajas dentro de la empresa, son solteros y la distacia del trabajo a su casa es mas de 6 kilometros
+
 > Riesgo de abandono por puesto
 ![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Riesgo_abandono_por_puesto.png)
+
+Nota: Los puestos con más riesgo de abandono laboral son "Sales Representative"
+
 
 > Riesgo de abandono por edad 
 ![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Riesgo_abandono_por_edad.png)
 
+Nota: Las personas que más desercionan son personas que su edad oscilan de 19 a 22 años.
 
 ## Solución
 Se crea un modelo de Machine learning para poder predecir a los empleados con más probabilidad de dejar la organización
