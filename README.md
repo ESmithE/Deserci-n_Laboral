@@ -57,16 +57,16 @@ Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de 
 
 
 ## Vistaso rápido a los resultados
+
 > Árbol de desiciones
-
-
-[![Arbol-de-perfil-de-empleado.png](https://i.postimg.cc/yxScCc0Q/Arbol-de-perfil-de-empleado.png)](https://postimg.cc/2LrV4qch)
-
-
 
 ![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)
 
+> Riesgo de abandono por puesto
+![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Riesgo_abandono_por_puesto.png)
 
+> Riesgo de abandono por edad 
+![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Riesgo_abandono_por_edad.png)
 
 
 ## Solución
