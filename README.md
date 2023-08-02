@@ -59,7 +59,9 @@ Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de 
 ## Vistaso rápido a los resultados
 > Árbol de desiciones
 
-![Árbol]([URL_de_la_imagen](https://pandao.github.io/editor.md/examples/images/4.jpg(https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)https://pandao.github.io/editor.md/examples/images/4.jpg(https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)
+
+![ARBOL](https://pandao.github.io/editor.md/examples/images/4.jpg(https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)https://pandao.github.io/editor.md/examples/images/4.jpg(https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)
+
 
 
 ## Solución
