@@ -64,6 +64,11 @@ Tomando en cuenta los datos anteriores, se puede establecer un gasto máximo de 
 
 
 
+![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Arbol%20de%20perfil%20de%20empleado.png)
+
+
+
+
 ## Solución
 Se crea un modelo de Machine learning para poder predecir a los empleados con más probabilidad de dejar la organización
 
