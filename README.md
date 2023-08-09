@@ -78,8 +78,10 @@ Nota: Los puestos con más riesgo de abandono laboral son "Sales Representative"
 Nota: Las personas que más desercionan son personas que su edad oscilan de 20 a 22 años.
 
 ## Solución
-Se crea un modelo de Machine learning para poder predecir a los empleados con más probabilidad de dejar la organización
 
+Hemos realizado un análisis exhaustivo que nos ha permitido identificar con la ayuda del Machine Learning patrones relacionados con el abandono laboral dentro de la empresa. Este análisis nos ha proporcionado información valiosa sobre los empleados que podrian estar en riesgo de dejar la empresa en un futuro cercano. Podemos enfocarnos en desarrollar iniciativas personalizadas para involucrar y motivar a estos empleados, abordando las preocupaciones que puedan estar afectando su satisfacción laboral. Ya sea mediante crecimiento, condiciones de trabajo, responsabilidades, etc.
+
+El enfoque estratégico no solo beneficiará a la empresa en términos financieros sino que también mejorara la retención de talento.
 
 
 
