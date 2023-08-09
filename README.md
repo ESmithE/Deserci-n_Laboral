@@ -19,9 +19,11 @@ La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de 
 
 ## Métodos
 - Análisis De Negocio
+- ETL 
 - Análisis Exploratorio De Datos
 - Análisis de penetración
 - Generación De Insights
+- Tabla de reporteo
 
 ## Tech Stack
 - Python
