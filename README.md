@@ -1,4 +1,4 @@
- # Solución al problema de Desercion Laboral
+ # Solución al problema de Desercion Laboral en Empresa
 
 ## Análisis de Negocio:
 Se identificó un caso preocupante de rotación de empleados, sin tener una visión clara de las implicaciones que esto conlleva dentro de la organización. Por lo que se a considerado como objetivo principal analizar a fondo las causas y consecuencias de la deserción laboral en la empresa, así como identificar patrones y tendencias que puedan estar contribuyendo a este fenómeno. 
