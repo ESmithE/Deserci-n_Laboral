@@ -36,9 +36,9 @@ La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de 
 - GitHub
 
 ## Explora
-[Notebook](https://colab.research.google.com/drive/1GAj6cuPgsOT-7OtdXyYUK9M_P1rYYlVg?usp=sharing)
+- [Notebook](https://colab.research.google.com/drive/1GAj6cuPgsOT-7OtdXyYUK9M_P1rYYlVg?usp=sharing)
 
-[Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Dashboard](https://public.tableau.com/views/Dashboard-Desercinlaboral/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Análisis
 La tasa de abandono lavoral dentro de la empresa es del 16.12%, y se ha observado que en su mayoría proviene del personal de ventas, especialmente de aquellos con un bajo nivel educativo (Primaria), estado civil soltero, alta carga de trabajo y bajos salarios. Este problema ha resultado en una pérdida de **$2,719,005.912** en el último año.
