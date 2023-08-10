@@ -42,21 +42,22 @@ La información oficial provista por el Hackathon HackerHEarth 2020. Archivo de 
 
 ## Análisis
 
-La tasa de abandono laboral dentro de la empresa del año pasado fue de un 39.7%, lo que equivalió a una pérdida total de **$2,719,005.9** dólares. Fidelizar a los empleados podría reducir este problema y ahorrar dinero. A continuación, se presentan tres posibles escenarios:
+La tasa de abandono laboral dentro de la empresa del año pasado fue de un **39.7%**, lo que equivalió a una pérdida total de **$2,719,005.9** dólares. Fidelizar a los empleados podría reducir este problema y ahorrar dinero. A continuación, se presentan tres posibles escenarios:
 
-1. Reducir un **10%** la tasa de abandono nos permitiría ahorrar **$271,900** al año.
-2. Reducir un **20%** la tasa de abandono nos permitiría ahorrar **$543,801** al año.
-3. Reducir un **30%** la tasa de abandono nos permitiría ahorrar **$815,701** al año.
+1. Reducir un **10%** la tasa de abandono nos permitiría ahorrar **$271,900** dólares al año.
+2. Reducir un **20%** la tasa de abandono nos permitiría ahorrar **$543,801** dólares al año.
+3. Reducir un **30%** la tasa de abandono nos permitiría ahorrar **$815,701** dólares al año.
 
-Para este año se pronostican la mismas cifras si comparo la tasa de abandono actual de 16.12% y tomando en consideración que el año aún no ha concluido, se espera un aumento del 23.58%. Esto equivale a que 19 empleados dejarán la empresa este año. Con estos datos surge la siguiente pregunta: ¿cuántos empleados podríamos retener y cuánto dinero representaría esa retención?. Considerando estos tres escenarios, obtendríamos lo siguiente:
+Para este año se pronostican las mismas cifras, se compara la tasa de abandono actual de 16.12% y se toma en consideración que el año aún no ha concluido, se espera un aumento del 23.58%. Esto equivale a que 19 empleados dejarán la empresa este año. Con estos datos surge la siguiente pregunta: ¿cuántos empleados podríamos retener y cuánto dinero representaría esa retención?. Considerando estos tres escenarios, obtendríamos lo siguiente:
 
 1. Con el **10%** de retención, mantendríamos a **1** empleado de ventas y ahorraríamos **$12,482.41** dólares.
 2. Con el **20%** de retención, mantendríamos a **3** empleados de ventas y ahorraríamos **$24,964.82** dólares.
 3. Con el **30%** de retención, mantendríamos a **5** empleados de ventas y ahorraríamos **$37,447.22** dólares.
 
-Observe que los empleados que abandonan la empresa en su mayoría proviene del personal de ventas, especialmente de aquellos con un bajo nivel educativo (Primaria), estado civil soltero, alta carga de trabajo y bajos salarios.
+Considerando los datos anteriores, se puede establecer un gasto máximo de **$37,447** dólares para acciones específicas orientadas a la retención del personal, lo cual estaría justificado ya que esta cantidad es igual al pronóstico de pérdida para este año.
 
-Considerando los datos anteriores, se puede establecer un gasto máximo de **$37,447** dólares para acciones específicas orientadas a la retención del personal de ventas, lo cual estaría justificado ya que esta cantidad es igual al pronóstico de pérdida para este año. Invertir en estrategias para retener al personal resultará en un ahorro significativo y un ambiente laboral más estable y productivo.
+Los empleados que abandonan la empresa en su mayoría proviene del personal de ventas, especialmente de aquellos con un bajo nivel educativo (Primaria), estado civil soltero, alta carga de trabajo y bajos salarios. Invertir en estrategias para retener al personal resultará en un ahorro significativo y un ambiente laboral más estable y productivo.
+
 
 
 ## Solución
