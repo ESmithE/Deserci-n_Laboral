@@ -62,9 +62,8 @@ Los empleados que abandonan la empresa en su mayoría proviene del personal de v
 
 ## Solución
 
-Con la ayuda del Machine Learning, realice un análisis exhaustivo que permitió identificar patrones relacionados con el abandono laboral dentro de la empresa. Este análisis proporcionó información valiosa sobre los empleados que podrian estar en riesgo de dejar la empresa en un futuro cercanoy así  desarrollar iniciativas personalizadas para involucrar y motivar a estos empleados, abordando las preocupaciones que puedan estar afectando su satisfacción laboral.Ya sea mediante crecimiento, condiciones de trabajo, responsabilidades, etc.
+Con la ayuda del Machine Learning se creara un sistema integral que ayudara a proporcionó información valiosa sobre los empleados que podrian estar en riesgo de dejar la empresa en un futuro cercano y así  desarrollar iniciativas personalizadas para involucrar y motivar a estos empleados, abordando las preocupaciones que puedan estar afectando su satisfacción laboral.
 
-El enfoque estratégico no solo beneficiará a la empresa en términos financieros sino que también mejorara la retención de talento.
 
 ## Vistaso rápido a los resultados
 
