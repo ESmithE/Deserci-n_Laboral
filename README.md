@@ -1,9 +1,9 @@
- # Solución al problema de Desercion Laboral en Empresa
+ # Estrategia de Ahorro Empresarial: Minimizando Pérdidas por Rotación de Personal
 
 ## Análisis de Negocio:
 Identifiqué un caso preocupante de rotación de empleados, sin tener una visión clara de las implicaciones que esto conlleva dentro de la empresa. Por lo que  consideré como objetivo principal analizar a fondo las causas y consecuencias de la deserción laboral, así como identificar patrones y tendencias que puedan estar contribuyendo a este fenómeno. 
 
-En primer lugar, se llevaré a cabo un análisis que permita entender cuantitativamente los gastos que ocasiona la rotación de empleados, incluyendo los costos asociados a la búsqueda, selección y capacitación de nuevos empleados y el impacto que representa para la empresa.
+En primer lugar, se llevará a cabo un análisis que permita entender cuantitativamente los gastos que ocasiona la rotación de empleados, incluyendo los costos asociados a la búsqueda, selección y capacitación de nuevos empleados y el impacto que representa para la empresa.
 
 Una parte esencial será encontrar una métrica adecuada para medir el abandono laboral en la empresa. Esto permitirá tener una visión clara y precisa del problema, facilitando la toma de decisiones y estrategias para su mitigación.
 
