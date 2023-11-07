@@ -78,7 +78,7 @@ Nota: Los puestos con más riesgo de abandono laboral son "Sales Representative"
 > Riesgo de abandono por edad 
 ![](https://github.com/ESmithE/Deserci-n_Laboral/blob/master/Riesgo_abandono_por_edad.png)
 
-Nota: Las personas que más desercionan son personas entre los 20 a 22 años.
+Nota: Empleados que abandonan la empresa son personas entre los 20 a 22 años.
 
 > Árbol de decisiones
 
