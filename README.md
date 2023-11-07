@@ -9,7 +9,7 @@ Una parte esencial será encontrar una métrica adecuada para medir el abandono 
 
 Asimismo, estableceré que porcentaje de empleados se encuentra actualmente en riesgo de abandonar sus puestos de trabajo para visualizar el riesgo por el que pasa la empresa.
 
-Por último, se determinaré los perfiles de los empleados más propensos al abandono laboral. Para ello, realizaré un análisis detallado de variables dentro del conjunto de datos y otros factores que puedan influir en la decisión de dejar la empresa. Esto con la finalidad de dirigiir esfuerzos y recursos hacia acciones que resulten en la retención del talento humano.
+Por último, se determinara los perfiles de los empleados más propensos al abandono laboral. Para ello, realizaré un análisis detallado de variables dentro del conjunto de datos y otros factores que puedan influir en la decisión de dejar la empresa. Esto con la finalidad de dirigiir esfuerzos y recursos hacia acciones que resulten en la retención del talento humano.
 
 En conclusión, en el presente proyecto busco implementar un sistema integral que permita reducir la rotación de empleados en la empresa, abordando tanto las causas subyacentes del problema como los aspectos individuales que pueden influir en la decisión de abandonar el trabajo. Mediante un enfoque cuantitativo y un análisis profundo, se aspira a mejorar la retención del talento humano, fomentando un ambiente laboral estable, productivo y satisfactorio para todos los miembros de la organización.
 
